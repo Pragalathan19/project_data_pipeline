@@ -1,0 +1,5 @@
+.env
+passwords.txt
+*.log
+__pycache__/
+.vscode/
